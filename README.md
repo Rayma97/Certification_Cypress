@@ -1,8 +1,13 @@
 Test case Ids that got passed:Tests_Scenarios_Certification11
-1)INTCK-QPLE3-FZKHI-LMO15 - Test scenario2 Fire fox mac os
-2)CQSQB-V0E80-Q4CJL-U4R06  - Test scenario1 Firefox Mac os
-3)JED83-EVBKX-TTWEJ-GOYGB  - Test Scenario2 Chrome WIndows 10
-4)JY7AA-ZWX4I-WT9G9-9TKPO  - Test scenario1 Chrome Windows 10
+1)CQSQB-V0E80-Q4CJL-U4R06  - Test scenario1 Firefox Mac os
+
+2)INTCK-QPLE3-FZKHI-LMO15    - Test scenario2 Firefox mac os
+
+3)JY7AA-ZWX4I-WT9G9-9TKPO  - Test scenario1 Chrome Windows 10
+
+4)JED83-EVBKX-TTWEJ-GOYGB  - Test Scenario2 Chrome WIndows 10
+
+
 Steps t follow
 1)Install Cypress v9.6.0
 npm install cypress@9.6.0 --save-dev
