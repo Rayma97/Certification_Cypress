@@ -43,3 +43,14 @@ Add it in //cypress/support/index.js
         lighthouse: lighthouse(), // calling the function is important
       })
    }
+   
+   
+6)Install the LambdaTest-Cypress CLI using the below command.
+  npm install -g lambdatest-cypress-cli
+  
+7)Create lambdatest-config.json file that contains configurations like auth, capabilities, test settings, etc. which need to be successfully executed at LambaTest.
+  lambdatest-cypress init
+  
+8)Pass the below command to run the test.
+  lambdatest-cypress run
+
